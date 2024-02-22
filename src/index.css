@@ -1,0 +1,59 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+    background-color: #1B1B1B;
+}
+
+/* Create a custom scroll bar  */
+body::-webkit-scrollbar {
+    width: 9px;
+    background: #282828;
+    border: 1px solid #555559;
+}
+
+/* for thumb (scrolllicon) */
+body::-webkit-scrollbar-thumb {
+    width: 7px;
+    background: #8A898E;
+}
+
+/* Remove SLider overflow scroll */
+.slider::-webkit-scrollbar {
+    display: none;
+}
+
+/* set queue BGColor */
+
+#queueBox {
+    background: rgb(50, 61, 70);
+    background: radial-gradient(circle, rgba(50, 61, 70, 1) 4%, rgba(44, 53, 60, 1) 12%, rgba(17, 14, 14, 1) 69%);
+}
+
+
+/* for design a custom scrollbar */
+#scrollDesign::-webkit-scrollbar {
+    width: 3px;
+    background: rgb(255, 255, 255, .3);
+    border-radius: 5px;
+    visibility: hidden;
+}
+
+
+#scrollDesign::-webkit-scrollbar-thumb {
+    width: 3px;
+    background: rgb(255, 255, 255, .4);
+    border-radius: 5px;
+    visibility: hidden;
+}
+
+
+#scrollDesign:hover::-webkit-scrollbar {
+    visibility: visible;
+}
+
+#scrollDesign:hover::-webkit-scrollbar-thumb {
+    visibility: visible;
+}

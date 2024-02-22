@@ -1,0 +1,552 @@
+[
+    {
+        "id": 0,
+        "images": "images/1.webp",
+        "name": "Leke Prabhu Ka Naam",
+        "singer": "Pritam",
+        "from": "Tiger 3",
+        "year": "2023",
+        "duration": "3:35 ",
+        "song": "music/1.mp3"
+    },
+    {
+        "id": 1,
+        "images": "images/2.jpg",
+        "name": "Kalaastar",
+        "singer": "Yo Yo Honey Singh",
+        "from": "Honey 3.0",
+        "year": "2023",
+        "duration": "3:27 ",
+        "song": "music/2.mp3"
+    },
+    {
+        "id": 2,
+        "images": "images/3.webp",
+        "name": "Udd Jaa Kaale Kaava",
+        "singer": "Udit Narayan",
+        "from": "Gadar 2",
+        "year": "2023",
+        "duration": "4:48 ",
+        "song": "music/3.mp3"
+    },
+    {
+        "id": 3,
+        "images": "images/4.jpg",
+        "name": "Jai Ganesha ",
+        "singer": "Vishal Mishra",
+        "from": "Ganpath",
+        "year": "2023",
+        "duration": "3:36 ",
+        "song": "music/4.mp3"
+    },
+    {
+        "id": 4,
+        "images": "images/5.jpg",
+        "name": "JALSA 2.0",
+        "singer": "Satinder Sartaaj",
+        "from": "Mission Raniganj",
+        "year": "2023",
+        "duration": "3:16 ",
+        "song": "music/5.mp3"
+    },
+    {
+        "id": 5,
+        "images": "images/6.jpg",
+        "name": "Phir Aur Kya Chahiye",
+        "singer": " Sachin-Jigar",
+        "from": "Zara Hatke Zara Bachke",
+        "year": "2023",
+        "duration": "4:26 ",
+        "song": "music/6.mp3"
+    },
+    {
+        "id": 6,
+        "images": "images/7.jpg",
+        "name": "Kuley Kuley",
+        "singer": "Yo Yo Honey Singh",
+        "from": "Honey 3.0",
+        "year": "2023",
+        "duration": "3:09 ",
+        "song": "music/7.mp3"
+    },
+    {
+        "id": 7,
+        "images": "images/8.jpg",
+        "name": "Check It Out Song",
+        "singer": "Parmish Verma",
+        "from": "Check It Out Song",
+        "year": "2023",
+        "duration": "3:15 ",
+        "song": "music/8.mp3"
+    },
+    {
+        "id": 8,
+        "images": "images/9.webp",
+        "name": "Doobey Song",
+        "singer": "OAFF,Savera",
+        "from": "Gehraiyaan",
+        "year": "2022",
+        "duration": "3:39 ",
+        "song": "music/9.mp3"
+    },
+    {
+        "id": 9,
+        "images": "images/10.jpg",
+        "name": "Pyaar Karte Ho Na",
+        "singer": "Javed-Mohsin,Stebin Ben,Shreya Ghoshal",
+        "from": "Lyrics",
+        "year": "2021",
+        "duration": "3:11 ",
+        "song": "music/10.mp3"
+    },
+    {
+        "id": 10,
+        "images": "images/11.jpg",
+        "name": "Mehabooba Song",
+        "singer": "Ravi Basrur,Ananya Bhat",
+        "from": "K. G. F. 2 (Hindi)",
+        "year": "2022",
+        "duration": "3:33 ",
+        "song": "music/11.mp3"
+    },
+    {
+        "id": 11,
+        "images": "images/12.jpg",
+        "name": "Fitoor Song",
+        "from": "Shamshera | फितूर",
+        "singer": "Mithoo, Arijit Singh,",
+        "year": "2022",
+        "duration": "5:08 ",
+        "song": "music/12.mp3"
+    },
+    {
+        "id": 12,
+        "images": "images/13.webp",
+        "name": "Kesariya Song",
+        "singer": "Pritam,Arijit Singh,Amitabh Bhattacharya",
+        "from": "Brahmastra",
+        "year": "2022",
+        "duration": "4:28 ",
+        "song": "music/13.mp3"
+    },
+    {
+        "id": 13,
+        "images": "images/14.jpg",
+        "name": "Aankhon Se Batana",
+        "singer": "Dikshant",
+        "from": "Dikshant",
+        "year": "2022",
+        "duration": "3:41 ",
+        "song": "music/14.mp3"
+    },
+    {
+        "id": 14,
+        "images": "images/15.jpg",
+        "name": "Tu Jaana Na Piya",
+        "singer": "King,David Arkwright,Miranda Glory",
+        "from": "NEW LIFE",
+        "year": "2023",
+        "duration": "3:46 ",
+        "song": "music/15.mp3"
+    },
+    {
+        "id": 15,
+        "images": "images/16.jpg",
+        "name": "Dil Ka Telephone 2.0",
+        "singer": "Meet Bros., Jonita Gandhi, Jubin Nautiyal",
+        "from": "Dream Girl 2",
+        "year": "2023",
+        "duration": "5:09 ",
+        "song": "music/16.mp3"
+    },
+    {
+        "id": 16,
+        "images": "images/17.webp",
+        "name": "Oonchi Oonchi Waadi ",
+        "singer": "Hansraj Raghuwanshi",
+        "from": "OMG 2",
+        "year": "2023",
+        "duration": "3:58 ",
+        "song": "music/17.mp3"
+    },
+    {
+        "id": 17,
+        "images": "images/18.jpg",
+        "name": "Chorni Song",
+        "singer": "DIVINE,Sidhu Moose Wala",
+        "from": "DIVINE",
+        "year": "2023",
+        "duration": "3:01 ",
+        "song": "music/18.mp3"
+    },
+    {
+        "id": 18,
+        "images": "images/19.jpg",
+        "name": "Khairiyat",
+        "singer": "Arijit Singh,Mithoon",
+        "from": "Gadar 2",
+        "year": "2023",
+        "duration": "3:51 ",
+        "song": "music/19.mp3"
+    },
+    {
+        "id": 19,
+        "images": "images/20.webp",
+        "name": "Kya Loge Tum Song",
+        "singer": "B Praak,Jaani,Akshay Kumar",
+        "from": "B Praak",
+        "year": "2023",
+        "duration": "3:54 ",
+        "song": "music/20.mp3"
+    },
+    {
+        "id": 20,
+        "images": "images/21.jpg",
+        "name": "Jhumka Song",
+        "singer": "Dr Zeus,Jase Sandlas",
+        "from": "Dr Zeus",
+        "year": "2023",
+        "duration": "3:38 ",
+        "song": "music/21.mp3"
+    },
+    {
+        "id": 21,
+        "images": "images/22.jpg",
+        "name": "Zulfaan Song",
+        "singer": "Jordan Sandhu",
+        "from": "Jordan Sandhu",
+        "year": "2023",
+        "duration": "2:54 ",
+        "song": "music/22.mp3"
+    },
+    {
+        "id": 22,
+        "images": "images/23.jpg",
+        "name": "Darbadar Song",
+        "singer": "Jubin Nautiyal,Vishal Mishra,Raj Shekhar",
+        "from": "Ittu Si Baat",
+        "year": "2022",
+        "duration": "3:20 ",
+        "song": "music/23.mp3"
+    },
+    {
+        "id": 23,
+        "images": "images/24.jpg",
+        "name": "Halki Si Barsaat",
+        "singer": "Saaj Bhatt",
+        "from": "Saaj Bhatt",
+        "year": "2022",
+        "duration": "3:32 ",
+        "song": "music/24.mp3"
+    },
+    {
+        "id": 24,
+        "images": "images/25.jpg",
+        "name": "Yaad Na Aaye Song",
+        "singer": "Akull",
+        "from": "Akull",
+        "year": "2022",
+        "duration": "3:15 ",
+        "song": "music/25.mp3"
+    },
+    {
+        "id": 25,
+        "images": "images/26.jpg",
+        "name": "The Villagers Song",
+        "singer": "Sumit Goswami,Jerry",
+        "from": "Sumit Goswami",
+        "year": "2023",
+        "duration": "3:25 ",
+        "song": "music/26.mp3"
+    },
+    {
+        "id": 26,
+        "images": "images/27.jpg",
+        "name": "Tabahi Song ",
+        "singer": "Badshah",
+        "from": "Badshah",
+        "year": "2022",
+        "duration": "2:48 ",
+        "song": "music/27.mp3"
+    },
+    {
+        "id": 27,
+        "images": "images/28.webp",
+        "name": "Gehraiyaan Title Track",
+        "singer": "OAFF,Savera,Lothika,Ankur Tewari",
+        "from": "Gehraiyaan",
+        "year": "2022",
+        "duration": "2:59 ",
+        "song": "music/28.mp3"
+    },
+    {
+        "id": 28,
+        "images": "images/29.jpg",
+        "name": "Main Royaan Song",
+        "singer": "Yasser Desai,Tanveer Evan,Rajat Nagpal",
+        "from": "Yasser Desai",
+        "year": "2022",
+        "duration": "4:25 ",
+        "song": "music/29.mp3"
+    },
+    {
+        "id": 29,
+        "images": "images/30.jpg",
+        "name": "Maan Le ",
+        "singer": "Arijit Singh,Somesh Saha",
+        "from": "Chitrakut",
+        "year": "2022",
+        "duration": "4:13 ",
+        "song": "music/30.mp3"
+    },
+    {
+        "id": 30,
+        "images": "images/31.webp",
+        "name": "Ja Chali Ja Song ",
+        "singer": "Rishabh Tiwari",
+        "from": "Ja Chali Ja",
+        "year": "2019",
+        "duration": "3:03 ",
+        "song": "music/31.mp3"
+    },
+    {
+        "id": 31,
+        "images": "images/32.jpg",
+        "name": "Lost Song",
+        "singer": "Dino James",
+        "from": "Dino James",
+        "year": "2022",
+        "duration": "3:21 ",
+        "song": "music/32.mp3"
+    },
+    {
+        "id": 32,
+        "images": "images/33.jpg",
+        "name": "Yaar Ka Sataya Hua Hai",
+        "singer": "B Praak",
+        "from": "Yaar Ka Sataya Hua Ha",
+        "year": "2023",
+        "duration": "4:28 ",
+        "song": "music/33.mp3"
+    },
+    {
+        "id": 33,
+        "images": "images/34.jpg",
+        "name": "No Love",
+        "singer": "Shubh",
+        "from": "Shubh",
+        "year": "2022",
+        "duration": "2:50 ",
+        "song": "music/34.mp3"
+    },
+    {
+        "id": 34,
+        "images": "images/35.jpg",
+        "name": "Bijlee Bijlee Song ",
+        "singer": "Harrdy Sandhu",
+        "from": "Harrdy Sandhu",
+        "year": "2021",
+        "duration": "2:45 ",
+        "song": "music/35.mp3"
+    },
+    {
+        "id": 35,
+        "images": "images/36.jpg",
+        "name": "The Last Ride Song",
+        "singer": "Sidhu Moose Wala,Wazir Patar",
+        "from": "Sidhu Moose Wala",
+        "year": "2022",
+        "duration": "4:15 ",
+        "song": "music/36.mp3"
+    },
+    {
+        "id": 36,
+        "images": "images/37.jpg",
+        "name": "Pasoori Song",
+        "singer": "Shae Gill",
+        "from": "Shae Gill",
+        "year": "2022",
+        "duration": "3:44 ",
+        "song": "music/37.mp3"
+    },
+    {
+        "id": 37,
+        "images": "images/38.jpg",
+        "name": "DESIRES",
+        "singer": "AP Dhillon, Gurinder Gill",
+        "from": "HIDDEN GEMS",
+        "year": "2021",
+        "duration": "2:48 ",
+        "song": "music/38.mp3"
+    },
+    {
+        "id": 38,
+        "images": "images/39.jpg",
+        "name": "Judge",
+        "singer": "Mankirt Aulakh,Avvy Sra",
+        "from": "Mankirt Aulakh",
+        "year": "2022",
+        "duration": "3:0115 ",
+        "song": "music/39.mp3"
+    },
+    {
+        "id": 39,
+        "images": "images/40.jpg",
+        "name": "Sira Song",
+        "singer": "Dilpreet Dhillon, Shipra Goyal",
+        "from": "Dilpreet Dhillon",
+        "year": "2021",
+        "duration": "2:15 ",
+        "song": "music/40.mp3"
+    },
+    {
+        "id": 40,
+        "images": "images/41.jpg",
+        "name": "Ik Kahani",
+        "singer": "Kaka",
+        "from": "Kaka",
+        "year": "2022",
+        "duration": "2:50 ",
+        "song": "music/41.mp3"
+    },
+    {
+        "id": 41,
+        "images": "images/42.jpg",
+        "name": "Future Song ",
+        "singer": "R-Nait, Gurlez Akhtar",
+        "from": "R-Nait",
+        "year": "2022",
+        "duration": "3:49 ",
+        "song": "music/42.mp3"
+    },
+    {
+        "id": 42,
+        "images": "images/43.jpg",
+        "name": "Beliya Song",
+        "singer": "B Praak, Jaani",
+        "from": "B Praak",
+        "year": "2022",
+        "duration": "3:46",
+        "song": "music/43.mp3"
+    },
+    {
+        "id": 43,
+        "images": "images/44.jpg",
+        "name": "End",
+        "singer": "Amrit Maan, Dr Zeus, Jaya Rohilla",
+        "from": "Amrit Maan",
+        "year": "20244",
+        "duration": "3:00 ",
+        "song": "music/44.mp3"
+    },
+    {
+        "id": 44,
+        "images": "images/45.jfif",
+        "name": "Aapano Rajasthan",
+        "singer": "Baawale Chore",
+        "from": "Baawale Chore",
+        "year": "2016",
+        "duration": "4:35 ",
+        "song": "music/45.mp3"
+    },
+    {
+        "id": 45,
+        "images": "images/46.webp",
+        "name": "Chal Oye Song",
+        "singer": "Parmish Verma",
+        "from": "Parmish Verma",
+        "year": "2019",
+        "duration": "3:17 ",
+        "song": "music/46.mp3"
+    },
+    {
+        "id": 46,
+        "images": "images/47.webp",
+        "name": "Beautiful Song",
+        "singer": "Akhil",
+        "from": "Akhil",
+        "year": "2019",
+        "duration": "2:59 ",
+        "song": "music/47.mp3"
+    },
+    {
+        "id": 47,
+        "images": "images/48.jpg",
+        "name": "Pent Straight",
+        "singer": "Gurnam Bhullar",
+        "from": " Majestic Lane",
+        "year": "2022",
+        "duration": "3:13 ",
+        "song": "music/48.mp3"
+    },
+    {
+        "id": 48,
+        "images": "images/49.jpg",
+        "name": "Ki Karde Je ",
+        "singer": "Nimrat Khaira",
+        "from": "Nimmo",
+        "year": "2022",
+        "duration": "3:35 ",
+        "song": "music/49.mp3"
+    },
+    {
+        "id": 49,
+        "images": "images/50.jpg",
+        "name": "Hul Chul Song",
+        "singer": "Korala Maan",
+        "from": "Korala Maan",
+        "year": "2022",
+        "duration": "3:15 ",
+        "song": "music/50.mp3"
+    },
+    {
+        "id": 50,
+        "images": "images/51.jpg",
+        "name": "2 Raflaan",
+        "singer": "Mankirt Aulakh, Gurlez Akhtar",
+        "from": "Mankirt Aulakh",
+        "year": "2021",
+        "duration": "3:29 ",
+        "song": "music/51.mp3"
+    },
+    {
+        "id": 51,
+        "images": "images/52.jpg",
+        "name": "Chann Chann",
+        "singer": "Jordan Sandhu ",
+        "from": "Jordan Sandhu",
+        "year": "2021",
+        "duration": "2:44",
+        "song": "music/52.mp3"
+    },
+    {
+        "id": 52,
+        "images": "images/53.jpg",
+        "name": "Chauffeur Song",
+        "singer": "Diljit Dosanjh, Tory Lanez, Ikky",
+        "from": "Diljit Dosanjh ",
+        "year": "2022",
+        "duration": "3:25 ",
+        "song": "music/53.mp3"
+    },
+    {
+        "id": 53,
+        "images": "images/54.jpg",
+        "name": "Junoon Song",
+        "singer": "Mitraz",
+        "from": "Mitraz",
+        "year": "2022",
+        "duration": "3:11 ",
+        "song": "music/54.mp3"
+    },
+    {
+        "id": 54,
+        "images": "images/55.jpg",
+        "name": "Alfaazo Song",
+        "singer": "Mitraz",
+        "from": "Mitraz",
+        "year": "2023",
+        "duration": "2:35 ",
+        "song": "music/55.mp3"
+    }
+]
